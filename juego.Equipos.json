@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663ed78ab6f62efb1c313c52"
+  },
+  "nombreequipo": "Equipo A",
+  "ciudad": "Ciudad A",
+  "color": "Rojo"
+},
+{
+  "_id": {
+    "$oid": "663ed78ab6f62efb1c313c53"
+  },
+  "nombreequipo": "Equipo B",
+  "ciudad": "Ciudad B",
+  "color": "Azul"
+},
+{
+  "_id": {
+    "$oid": "663ed78ab6f62efb1c313c54"
+  },
+  "nombreequipo": "Equipo C",
+  "ciudad": "Ciudad C",
+  "color": "Verde"
+},
+{
+  "_id": {
+    "$oid": "663ed78ab6f62efb1c313c55"
+  },
+  "nombreequipo": "Equipo D",
+  "ciudad": "Ciudad D",
+  "color": "Amarillo"
+},
+{
+  "_id": {
+    "$oid": "663ed78ab6f62efb1c313c56"
+  },
+  "nombreequipo": "Equipo E",
+  "ciudad": "Ciudad E",
+  "color": "Blanco"
+}]

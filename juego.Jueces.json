@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663ed976b6f62efb1c313c5c"
+  },
+  "nombre": "Juez 1",
+  "edad": 35,
+  "estatura": 175
+},
+{
+  "_id": {
+    "$oid": "663ed976b6f62efb1c313c5d"
+  },
+  "nombre": "Juez 2",
+  "edad": 40,
+  "estatura": 180
+},
+{
+  "_id": {
+    "$oid": "663ed976b6f62efb1c313c5e"
+  },
+  "nombre": "Juez 3",
+  "edad": 45,
+  "estatura": 170
+},
+{
+  "_id": {
+    "$oid": "663ed976b6f62efb1c313c5f"
+  },
+  "nombre": "Juez 4",
+  "edad": 50,
+  "estatura": 185
+},
+{
+  "_id": {
+    "$oid": "663ed976b6f62efb1c313c60"
+  },
+  "nombre": "Juez 5",
+  "edad": 55,
+  "estatura": 178
+}]

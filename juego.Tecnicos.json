@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "663ed8d0b6f62efb1c313c57"
+  },
+  "nombre": "Técnico 1",
+  "edad": 40,
+  "titulos": [
+    "Campeonato Nacional",
+    "Copa del Rey"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ed8d0b6f62efb1c313c58"
+  },
+  "nombre": "Técnico 2",
+  "edad": 45,
+  "titulos": [
+    "Premier League",
+    "Champions League"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ed8d0b6f62efb1c313c59"
+  },
+  "nombre": "Técnico 3",
+  "edad": 50,
+  "titulos": [
+    "Bundesliga",
+    "Europa League"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ed8d0b6f62efb1c313c5a"
+  },
+  "nombre": "Técnico 4",
+  "edad": 55,
+  "titulos": [
+    "Serie A",
+    "Copa Libertadores"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ed8d0b6f62efb1c313c5b"
+  },
+  "nombre": "Técnico 5",
+  "edad": 60,
+  "titulos": [
+    "Ligue 1",
+    "Copa Sudamericana"
+  ]
+}]

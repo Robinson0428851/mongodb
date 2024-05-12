@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663eda8eb6f62efb1c313c61"
+  },
+  "nombreequipo": "Equipo 1",
+  "puntos": 20,
+  "numeropartidos": 10
+},
+{
+  "_id": {
+    "$oid": "663eda8eb6f62efb1c313c62"
+  },
+  "nombreequipo": "Equipo 2",
+  "puntos": 15,
+  "numeropartidos": 9
+},
+{
+  "_id": {
+    "$oid": "663eda8eb6f62efb1c313c63"
+  },
+  "nombreequipo": "Equipo 3",
+  "puntos": 25,
+  "numeropartidos": 11
+},
+{
+  "_id": {
+    "$oid": "663eda8eb6f62efb1c313c64"
+  },
+  "nombreequipo": "Equipo 4",
+  "puntos": 18,
+  "numeropartidos": 8
+},
+{
+  "_id": {
+    "$oid": "663eda8eb6f62efb1c313c65"
+  },
+  "nombreequipo": "Equipo 5",
+  "puntos": 22,
+  "numeropartidos": 12
+}]

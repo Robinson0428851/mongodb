@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663ed4ecb6f62efb1c313c4d"
+  },
+  "nombre": "mateo",
+  "edad": 25,
+  "peso": 70
+},
+{
+  "_id": {
+    "$oid": "663ed4ecb6f62efb1c313c4e"
+  },
+  "nombre": "carlos",
+  "edad": 30,
+  "peso": 80
+},
+{
+  "_id": {
+    "$oid": "663ed4ecb6f62efb1c313c4f"
+  },
+  "nombre": "milton",
+  "edad": 28,
+  "peso": 75
+},
+{
+  "_id": {
+    "$oid": "663ed4ecb6f62efb1c313c50"
+  },
+  "nombre": "juan",
+  "edad": 22,
+  "peso": 68
+},
+{
+  "_id": {
+    "$oid": "663ed4ecb6f62efb1c313c51"
+  },
+  "nombre": "rodrigo",
+  "edad": 35,
+  "peso": 85
+}]
